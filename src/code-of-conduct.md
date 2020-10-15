@@ -7,4 +7,9 @@ title: 'Code of Conduct'
 
 Rules for being in this webring.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed fuga quae labore, at adipisci mollitia consequatur possimus sint dolor corrupti unde aperiam iste cumque repudiandae enim, aliquid optio amet, quo quia. Doloribus eius atque quis. Odit, culpa saepe! Perferendis, ratione. Laboriosam ratione quod doloribus perferendis? Minus sit itaque totam eius.
+This webring generally follows the [JSConf Code of Conduct](https://jsconf.com/codeofconduct.html), with some variations:
+
+1. Anyone found to be harassing folks (whether as part of the webring or otherwise) will be removed from the webring and shunned socially.
+2. Sexual language and imagery is tolerated to the extent that *all* webring members are comfortable with it. To that effect:
+3. Each and every member has veto power over the inclusion of a site in the webring.
+4. If the veto power is abused or if there are strong disagreements about the inclusion of a particular site, we'll resolve them through a simple majority vote.
