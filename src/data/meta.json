@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
+    "title": "Mainframe.club",
+    "description": "This is a webring for friends to post weird, cool web stuff and personal sites.",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "url": "https://mainframe.club",
+    "repo": "https://github.com/nelsonpecora/mainframe.club",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Nelson Pecora",
+            "url": "https://github.com/nelsonpecora"
         }
     ]
 }
