@@ -1,47 +1,17 @@
 [
     {
-        "title": "Max Böck",
-        "url": "https://mxb.dev/",
-        "feed": "https://mxb.dev/feed.xml"
-    },
-    {
-        "title": "Manuel Matuzovic",
-        "url": "https://www.matuzo.at/",
-        "feed": "https://www.matuzo.at/feed.xml"
-    },
-    {
-        "title": "Charlie Owen",
-        "url": "https://www.sonniesedge.net/",
+        "title": "Nelson Pecora",
+        "url": "http://nelson.codes/",
         "feed": null
     },
     {
-        "title": "Björn Ganslandt",
-        "url": "https://ganslandt.xyz/",
+        "title": "Charlotte Lang-Bush",
+        "url": "http://femmefaust.us/",
         "feed": null
     },
     {
-        "title": "Jan Hrubý",
-        "url": "https://www.mrozilla.cz/",
+        "title": "Here Comes the Airplane",
+        "url": "http://www.herecomestheairplane.co/",
         "feed": null
-    },
-    {
-        "title": "Zach Leatherman",
-        "url": "https://www.zachleat.com/",
-        "feed": "https://www.zachleat.com/web/feed/"
-    },
-    {
-        "title": "Steve Gardner",
-        "url": "https://ste.vg",
-        "feed": null
-    },
-    {
-        "title": "Alan Levine",
-        "url": "https://cogdogblog.com/",
-        "feed": "https://cogdogblog.com/feed"
-    },
-    {
-        "title": "Marius Ghita",
-        "url": "https://mhitza.github.io",
-        "feed": "https://mhitza.github.io/atom.xml"
     }
 ]
