@@ -70,3 +70,10 @@ yarn
 # start a local build server and the gulp pipeline
 yarn start
 ```
+
+## Other things on Mainframe Club
+
+There are a number of other services hosted on subdomains of `mainframe.club`. All of them are run off of a DigitalOcean droplet.
+
+* [Pleroma](https://toot.mainframe.club)
+* [Pixelfed](https://pixel.mainframe.club)
