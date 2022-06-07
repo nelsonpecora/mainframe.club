@@ -28,3 +28,9 @@
     to = "/.netlify/functions/random"
     status = 301
     force = true
+
+[[redirects]]
+    from = "/.well-known/matrix/server"
+    to = "/.netlify/functions/well-known"
+    status = 301
+    force = true
