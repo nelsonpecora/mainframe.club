@@ -71,6 +71,8 @@ yarn
 yarn start
 ```
 
+This repo autodeployes `master` to netlify.
+
 ## Other things on Mainframe Club
 
 There are a number of other services hosted on subdomains of `mainframe.club`. All of them are run off of a DigitalOcean droplet.
