@@ -75,8 +75,4 @@ This repo autodeployes `master` to netlify.
 
 ## Other things on Mainframe Club
 
-There are a number of other services hosted on subdomains of `mainframe.club`. All of them are run off of a DigitalOcean droplet.
-
-* [Pleroma](https://toot.mainframe.club)
-* [Pixelfed](https://pixel.mainframe.club)
-* [Matrix](https://matrix.mainframe.club/element)
+This website is served from [web.mainframe.club](https://web.mainframe.club). The bare domain hosts my single-member Mastodon instance.
